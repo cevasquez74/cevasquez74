@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cevasquez74
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning @Angular
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning @Angular, SAP ABAP 
+- 💞️ I’m looking to collaborate on GNU/GPL Projects
 - 📫 How to reach me ...
 
 <!---
